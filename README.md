@@ -1,6 +1,6 @@
-# Hello!, I am alejandro :grin: 
+# Hello!, I am Alejandro :grin: 
 <img align='right' src="waving.gif" style="width: 230px;border-radius:50%;">
-<p><em>becoming a remote Full-stack web developer one step at a time :cloud_with_lightning_and_rain: :place_of_worship:</em></p>
+<p><em>Becoming a remote Full-stack web developer one step at a time :cloud_with_lightning_and_rain: :place_of_worship:</em></p>
 
 ## about me
 
@@ -13,7 +13,7 @@
 <!--END_SECTION:waka-->
 
 <details align="left">
-<summary>summary</summary>
+<summary>Summary</summary>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -32,7 +32,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aizjicod&theme=midnight-purple&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizjicod&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </section>
 
-## you can contact me through this links
+## You can contact me through this links
 <details align="left">
 <summary>social media</summary>
   <a href="https://www.linkedin.com/in/aiziji/"><img  alt="alejandro torres | Linkedin" width="24px" src="./icons/Linkedin.svg" /></a>
@@ -44,4 +44,4 @@
   </a>
 </details>
 
-<p>i would love if you give some stars to my proyects bellow<img src="./like.gif" width="60"></p>
+<p>I would love if you give some stars to my proyects bellow<img src="./like.gif" width="60"></p>
