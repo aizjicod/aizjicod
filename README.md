@@ -24,7 +24,7 @@
 
 <!--END_SECTION:waka-->
 
-<details align="center">
+<details align="left">
 <summary>summary</summary>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -41,7 +41,7 @@
 <!--STATS_SECTION-->
 <section align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aizjicod&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizjicod&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aizjicod&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizjicod&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </section>
 
 <p>give some stars to my proyects bellow<img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
