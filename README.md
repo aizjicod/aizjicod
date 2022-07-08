@@ -2,18 +2,6 @@
 <img align='right' src="waving.gif" style="width: 230px;border-radius:50%;">
 <p><em>becoming a remote Full-stack web developer one step at a time :cloud_with_lightning_and_rain: :place_of_worship:</em></p>
 
-## you can contact me through this links
-<details align="left">
-<summary>social media</summary>
-  <a href="https://www.linkedin.com/in/aiziji/"><img  alt="alejandro torres | Linkedin" width="24px" src="./icons/Linkedin.svg" /></a>
-  <a href="https://twitter.com/aizijijr">
-    <img alt="alejandro torres | Twitter" width="26px" src="./icons/Twitter.svg" />
-  </a> 
-  <a href="mailto:aletv1501@gmail.com">
-    <img  alt="alejandro torres | Gmail" width="26px" src="./icons/Gmail.svg" />
-  </a>
-</details>
-
 ## about me
 
  * I am looking for a full-stack web developer, front-end or back-end developer job.
@@ -44,4 +32,16 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aizjicod&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aizjicod&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </section>
 
-<p>give some stars to my proyects bellow<img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+## you can contact me through this links
+<details align="left">
+<summary>social media</summary>
+  <a href="https://www.linkedin.com/in/aiziji/"><img  alt="alejandro torres | Linkedin" width="24px" src="./icons/Linkedin.svg" /></a>
+  <a href="https://twitter.com/aizijijr">
+    <img alt="alejandro torres | Twitter" width="26px" src="./icons/Twitter.svg" />
+  </a> 
+  <a href="mailto:aletv1501@gmail.com">
+    <img  alt="alejandro torres | Gmail" width="26px" src="./icons/Gmail.svg" />
+  </a>
+</details>
+
+<p>i would love if you give some stars to my proyects bellow<img src="./like.gif" width="60"></p>
