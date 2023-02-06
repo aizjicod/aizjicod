@@ -11,8 +11,6 @@
 ## These are some of the languages I have learned through the years 
 
 <!--END_SECTION:waka-->
-  <h2>Summary</h2>
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -47,7 +45,6 @@
 </section>
 
 ## You can contact me through this links
-<h2>social media</h2>
   <a href="https://www.linkedin.com/in/aiziji/"><img  alt="alejandro torres | Linkedin" width="24px" src="./icons/Linkedin.svg" /></a>
   <a href="https://twitter.com/aizijijr">
     <img alt="alejandro torres | Twitter" width="26px" src="./icons/Twitter.svg" />
